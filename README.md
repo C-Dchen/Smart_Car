@@ -1,3 +1,3 @@
-# Smart_Car
+# Smart_Car（主文件在master分支中）
 十七届全国大学生智能汽车竞赛完全模型组国家二等奖
-主文件在master分支中
+
